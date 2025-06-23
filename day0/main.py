@@ -9,10 +9,11 @@ bool: True/False
 print(100)
 print("Nguyen Ngoc Duc")
 print(2, 2)
-"""
+
 print(1, 2, 3, 4, sep=" * ")
 
 print(True, False, end='?\n')
-"""
+
 print("💚💚")
 # print('john')
+
